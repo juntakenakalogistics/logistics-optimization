@@ -7,7 +7,7 @@ AI-driven freight cost and CO₂ reduction for automotive supply chains
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?logo=streamlit&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![USP ESALQ](https://img.shields.io/badge/MBA-Data%20Science%20%26%20Analytics-navy)
-> **MBA Thesis Project — Universidade de São Paulo (USP/ESALQ), 2023–2026**  
+> **MBA Thesis Project — Universidade de São Paulo, 2023–2026**  
 > *"Sistema Prescritivo de Otimização Logística e Inventário de CO₂"*
 ---
 Overview
