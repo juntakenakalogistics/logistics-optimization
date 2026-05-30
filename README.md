@@ -1,4 +1,5 @@
-# logistics-optimization
+# Prescriptive Logistics Optimization System
+### AI-driven freight cost and CO₂ reduction for automotive supply chains
 Prescriptive logistics optimization via AI (Genetic Algorithm + DBSCAN + DQN) — −57% freight cost on real automotive supply chain data
 Prescriptive Logistics Optimization System
 AI-driven freight cost and CO₂ reduction for automotive supply chains
